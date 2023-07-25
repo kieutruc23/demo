@@ -1,6 +1,6 @@
 import React from 'react'
-import FormInput from './input'
-import Information from './information'
+import FormInput from './Form'
+import Information from './Jobinformation'
 const Form = (props: any) => {
     return (
         <>

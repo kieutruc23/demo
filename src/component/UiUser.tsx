@@ -1,4 +1,4 @@
-import ChildComponent from './Child';
+import ChildComponent from './User';
 
 const ParentComponent = () => {
   return (
